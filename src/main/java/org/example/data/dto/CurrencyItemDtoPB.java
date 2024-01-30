@@ -1,4 +1,4 @@
-package org.example.currency.dto;
+package org.example.data.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -11,6 +11,6 @@ import org.example.currency.CurrencyType;
 public class CurrencyItemDtoPB {
         private CurrencyType ccy;
         private CurrencyType base_ccy;
-        private String buy;
-        private String sale;
+        private Double buy;
+        private Double sale;
 }

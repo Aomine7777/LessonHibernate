@@ -14,7 +14,10 @@
 
 
 
-    <mapping class="org.example.entity.User"/>
+    <mapping class="org.example.data.entity.User"/>
+    <mapping class="org.example.data.entity.Account"/>
+    <mapping class="org.example.data.entity.ExchangeRate"/>
+    <mapping class="org.example.data.entity.Transaction"/>
     <!-- DB schema will be updated if needed -->
     <!-- <property name="hibernate.hbm2ddl.auto">update</property> -->
   </session-factory>
