@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76c8efb7-265f-4192-99c4-762773b2635a" name="Changes" comment="test2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/impl/TransactionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/TransactionService.java" afterDir="false" />
-    </list>
+    <list default="true" id="76c8efb7-265f-4192-99c4-762773b2635a" name="Changes" comment="test3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +141,7 @@
       <workItem from="1706447754303" duration="3062000" />
       <workItem from="1706519219467" duration="26129000" />
       <workItem from="1706562692767" duration="4263000" />
-      <workItem from="1706607658489" duration="1083000" />
+      <workItem from="1706607658489" duration="1384000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1704812329343</created>
@@ -181,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706608246467</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test3">
+      <created>1706608753050</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706608753050</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +206,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="test1" />
     <MESSAGE value="test2" />
-    <option name="LAST_COMMIT_MESSAGE" value="test2" />
+    <MESSAGE value="test3" />
+    <option name="LAST_COMMIT_MESSAGE" value="test3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
