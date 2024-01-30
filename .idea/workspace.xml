@@ -4,41 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76c8efb7-265f-4192-99c4-762773b2635a" name="Changes" comment="test1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/TransactionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/48630bd8-54e3-4cfe-a6f0-1396078dc785.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/48630bd8-54e3-4cfe-a6f0-1396078dc785.xml" afterDir="false" />
+    <list default="true" id="76c8efb7-265f-4192-99c4-762773b2635a" name="Changes" comment="test2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AppLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AppLauncher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/currency/CurrencuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/CurrencuService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/currency/dto/CurrencyItemDtoPB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/data/dto/CurrencyItemDtoPB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/currency/impl/CurrencyServiceImplPB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/CurrencyServiceImplPB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/data/entity/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/ExchangeRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/data/entity/ExchangeRate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/data/entity/Transaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/data/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/repository/AccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/AccountRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/repository/ExchangeRateRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/ExchangeRateRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/repository/TransactionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/TransactionRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/AppLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/AppLauncher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/currency/CurrencuService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/currency/dto/CurrencyItemDtoPB$CurrencyItemDtoPBBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/currency/dto/CurrencyItemDtoPB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/currency/impl/CurrencyServiceImplPB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/entity/Account$AccountBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/entity/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/entity/ExchangeRate$ExchangeRateBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/entity/ExchangeRate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/entity/Transaction$TransactionBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/entity/Transaction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/entity/User$UserBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/repository/AccountRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/repository/AccountRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/repository/ExchangeRateRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/repository/ExchangeRateRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/repository/TransactionRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/repository/TransactionRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/impl/TransactionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/TransactionService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +144,7 @@
       <workItem from="1706447754303" duration="3062000" />
       <workItem from="1706519219467" duration="26129000" />
       <workItem from="1706562692767" duration="4263000" />
-      <workItem from="1706607658489" duration="325000" />
+      <workItem from="1706607658489" duration="1083000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1704812329343</created>
@@ -206,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705993180608</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test2">
+      <created>1706608246466</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706608246467</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +201,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="test1" />
-    <option name="LAST_COMMIT_MESSAGE" value="test1" />
+    <MESSAGE value="test2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

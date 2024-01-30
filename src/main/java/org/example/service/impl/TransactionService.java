@@ -29,6 +29,7 @@ public class TransactionService {
         this.exchangeRateRepository = exchangeRateRepository;
         this.transactionRepository = transactionRepository;
     }
+
     public void increaseUserAccountBalance(User user, CurrencyType currency, double amount) {
         Account account = accountRepository.findByUserAndCurrency(user, currency)
                 .orElseThrow(() -> new IllegalArgumentException("Не знайдено обліковий запис для користувача та валюти"));
@@ -36,6 +37,7 @@ public class TransactionService {
         account.setBalance(account.getBalance() + amount);
         accountRepository.update(account);
     }
+
     public void reduceUserAccountBalance(User user, CurrencyType currency, double amount) {
         Account account = accountRepository.findByUserAndCurrency(user, currency)
                 .orElseThrow(() -> new IllegalArgumentException("Не знайдено обліковий запис для користувача та валюти"));
@@ -91,9 +93,11 @@ public class TransactionService {
         }
         return totalBalanceInUah;
     }
+
     private double getExchangeRate(CurrencyType sourceCurrency, CurrencyType targetCurrency) {
         ExchangeRate exchangeRate = exchangeRateRepository.findByBaseCurrencyAndTargetCurrency(sourceCurrency, targetCurrency)
                 .orElseThrow(() -> new IllegalArgumentException("Курс обміну не знайдено для вказаних валют"));
         return exchangeRate.getRate();
     }
+
 }
