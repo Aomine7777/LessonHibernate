@@ -5,9 +5,7 @@ import lombok.Getter;
 
 @Getter
 public enum CurrencyType {
-    UAH(980),
-    EUR(978),
-    USD(840);
+    UAH(980), EUR(978), USD(840);
     private final int ISOCode;
 
 

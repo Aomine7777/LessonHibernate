@@ -13,11 +13,11 @@ import java.time.LocalDateTime;
 @AllArgsConstructor
 @Builder
 @Entity
-@Table(name = "transactions",schema = "bank")
+@Table(name = "transactions", schema = "bank")
 public class Transaction {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private  Long id;
+    private Long id;
 
     @ManyToOne
     @JoinColumn(name = "source_account_id", nullable = false)

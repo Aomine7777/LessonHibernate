@@ -8,12 +8,13 @@ import lombok.NoArgsConstructor;
 import org.example.currency.CurrencyType;
 
 import java.time.LocalDate;
+
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
 @Entity
-@Table(name = "exchange_rates",schema = "bank")
+@Table(name = "exchange_rates", schema = "bank")
 public class ExchangeRate {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76c8efb7-265f-4192-99c4-762773b2635a" name="Changes" comment="test3" />
+    <list default="true" id="76c8efb7-265f-4192-99c4-762773b2635a" name="Changes" comment="test3">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/48630bd8-54e3-4cfe-a6f0-1396078dc785.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/48630bd8-54e3-4cfe-a6f0-1396078dc785.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AppLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AppLauncher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/currency/CurrencyType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/currency/CurrencyType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/data/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/data/entity/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/data/entity/ExchangeRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/data/entity/ExchangeRate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/data/entity/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/data/entity/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/repository/AccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/AccountRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/repository/ExchangeRateRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/ExchangeRateRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/repository/TransactionRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/CurrencuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/CurrencyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/impl/CurrencyServiceImplPB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/PrivatBankCurrencyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/impl/TransactionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/impl/TransactionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/AppLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/AppLauncher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/currency/CurrencyType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/currency/CurrencyType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/data/entity/Transaction$TransactionBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/data/entity/Transaction$TransactionBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/data/entity/Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/data/entity/Transaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/repository/AccountRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/repository/AccountRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/repository/ExchangeRateRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/repository/ExchangeRateRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/repository/TransactionRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/repository/TransactionRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/CurrencuService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/impl/CurrencyServiceImplPB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/impl/TransactionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/service/impl/TransactionService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +48,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6f93a0da-4a9c-4359-8b8c-9c15fab57478" />
+        <option name="url" value="https://github.com/Aomine7777/LessonHibernate.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" root0="SKIP_HIGHLIGHTING" />
@@ -141,7 +181,25 @@
       <workItem from="1706447754303" duration="3062000" />
       <workItem from="1706519219467" duration="26129000" />
       <workItem from="1706562692767" duration="4263000" />
-      <workItem from="1706607658489" duration="1384000" />
+      <workItem from="1706607658489" duration="2185000" />
+      <workItem from="1706738618388" duration="1454000" />
+      <workItem from="1706793909973" duration="603000" />
+      <workItem from="1707816977644" duration="1097000" />
+      <workItem from="1707818899087" duration="288000" />
+      <workItem from="1708016054254" duration="5208000" />
+      <workItem from="1708509705865" duration="13000" />
+      <workItem from="1708527209258" duration="937000" />
+      <workItem from="1708597008850" duration="5401000" />
+      <workItem from="1708643139626" duration="3765000" />
+      <workItem from="1708767256338" duration="2169000" />
+      <workItem from="1708940684871" duration="7082000" />
+      <workItem from="1709114502797" duration="10616000" />
+      <workItem from="1709201489890" duration="8400000" />
+      <workItem from="1709239053252" duration="5887000" />
+      <workItem from="1709288223699" duration="7296000" />
+      <workItem from="1709378756507" duration="7868000" />
+      <workItem from="1709396466431" duration="2985000" />
+      <workItem from="1709827146447" duration="1006000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1704812329343</created>
@@ -185,7 +243,21 @@
       <option name="project" value="LOCAL" />
       <updated>1706608753050</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test3">
+      <created>1706609376058</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706609376058</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test3">
+      <created>1706609461159</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706609461159</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +290,11 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="session.createQuery(queryFindUserAcc, Account.class).setParameter(&quot;user&quot;, user).list()" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
